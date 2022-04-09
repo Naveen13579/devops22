@@ -2,3 +2,7 @@ jenkins
 git
 python 
 devops
+css
+html
+ts
+java
