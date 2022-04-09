@@ -1,0 +1,6 @@
+sql
+postgresql
+orm
+php
+django
+rest api
