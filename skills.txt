@@ -2,3 +2,6 @@ jenkins
 git
 python 
 devops
+spring
+sql
+testing
